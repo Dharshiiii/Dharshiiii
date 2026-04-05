@@ -26,8 +26,7 @@ Now building projects & exploring cybersecurity 🔐  </p>
 <p align ="center"> Code. Break. Secure. Repeat. </p>
 
 ## 📊 GitHub Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
 ## 🌐 Connect With Me
