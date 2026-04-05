@@ -9,8 +9,4 @@ Now building projects & exploring cybersecurity 🔐  </p>
  <h3 align ="center"> Code. Break. Secure. Repeat. </h3>
  
 
----
-##  Connect With Me
-- LinkedIn: YOUR_LINK  
-- Portfolio: YOUR_LINK
-- sakthidharshini640@gmail.com  
+
