@@ -3,8 +3,12 @@
  <p align ="center" >Started with "Hello World"....... 
 Now building projects & exploring cybersecurity 🔐</p>
  💻 Web Developer| 🐍 Python | 🔐 Cybersecurity Enthusiast 
- <ol>
-  <li>python,Javascript</li>
+ <ol id="TECH skills">
+  <li>Programming: Python,Javascript</li>
+   <li>Framework: Django and Flask(basics)</li>
+    <li>Database: Mysql</li>
+    <li>web tech: HTML5, CSS>
+     <li>cybersecurity based: networks,cybersecurity basics, linux,kali linux,metasploitable,Nmap,wireshark</li>
  </ol>
 
  I don’t just write code.......... I test how it breaks   
