@@ -8,7 +8,7 @@ Now building projects & exploring cybersecurity 🔐</p>
  
  <h3 align ="center"> Code. Break. Secure. Repeat. </h3>
  <h3>Lets connect !</h3>
- <a href="www.linkedin.com/in/sakthidharshini-j-p-427215294">hello</a>
+ <a href="www.linkedin.com/in/sakthidharshini-j-p-427215294"></a>
  
 
 
