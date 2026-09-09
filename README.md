@@ -1,5 +1,5 @@
  # Hey There , I'm Sakthi👩‍💻
- >Sakthidharshini JP! I am recently graduated  Computer Science and Engineering 
+ >Sakthidharshini JP! I am recently graduated  Computer Science and Engineering. I am mostly interested on redhat and development
  <p align ="center" >Started with "Hello World"....... 
 Now building projects & exploring cybersecurity 🔐</p>
  💻 Web Developer| 🐍 Python | 🔐 Cybersecurity Enthusiast 
