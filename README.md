@@ -2,7 +2,10 @@
  >Sakthidharshini JP! I am recently graduated  Computer Science and Engineering 
  <p align ="center" >Started with "Hello World"....... 
 Now building projects & exploring cybersecurity 🔐</p>
- 💻 Web Developer| 🐍 Python | 🔐 Cybersecurity Enthusiast  
+ 💻 Web Developer| 🐍 Python | 🔐 Cybersecurity Enthusiast 
+ <ol>
+  <li>python,Javascript</li>
+ </ol>
 
  I don’t just write code.......... I test how it breaks   
  
